@@ -1,4 +1,4 @@
-#문제 33: 
+#문제 33: 거꾸로 출력하기
 
 num = list(input().split())
 num.reverse()   
